@@ -1,0 +1,107 @@
+const resumes = [
+    {
+        name: 'John Doe',
+        email: 'john@example.com',
+        phone: '123-456-7890',
+        skills: ['HTML', 'CSS', 'JavaScript'],
+        workExperiences: [
+          {
+            companyName: 'ABC Company',
+            jobRole: 'Software Engineer',
+            startMonth: 'January',
+            startYear: '2020',
+            endMonth: 'March',
+            endYear: '2022',
+            currentlyWorking: false
+          }
+        ]
+      },
+    {
+        name: 'John Doe',
+        email: 'john@example.com',
+        phone: '123-456-7890',
+        skills: ['PHP', 'NodeJs', 'ExpressJs'],
+        workExperiences: [
+          {
+            companyName: 'ABC Company',
+            jobRole: 'Software Engineer',
+            startMonth: 'January',
+            startYear: '2020',
+            endMonth: 'March',
+            endYear: '2022',
+            currentlyWorking: false
+          }
+        ]
+      },
+    {
+        name: 'John Doe',
+        email: 'john@example.com',
+        phone: '123-456-7890',
+        skills: ['PHP', 'NodeJs', 'ExpressJs','HTML'],
+        workExperiences: [
+          {
+            companyName: 'ABC Company',
+            jobRole: 'Software Engineer',
+            startMonth: 'January',
+            startYear: '2020',
+            endMonth: 'March',
+            endYear: '2022',
+            currentlyWorking: false
+          },
+          {
+            companyName: 'ABC Company',
+            jobRole: 'Software Engineer',
+            startMonth: 'January',
+            startYear: '2020',
+            endMonth: 'March',
+            endYear: '2022',
+            currentlyWorking: false
+          },
+          {
+            companyName: 'ABC Company',
+            jobRole: 'Software Engineer',
+            startMonth: 'January',
+            startYear: '2020',
+            endMonth: 'March',
+            endYear: '2022',
+            currentlyWorking: false
+          },
+          {
+            companyName: 'ABC Company',
+            jobRole: 'Software Engineer',
+            startMonth: 'January',
+            startYear: '2020',
+            endMonth: 'March',
+            endYear: '2022',
+            currentlyWorking: false
+          },
+          {
+            companyName: 'ABC Company',
+            jobRole: 'Software Engineer',
+            startMonth: 'January',
+            startYear: '2020',
+            endMonth: 'March',
+            endYear: '2022',
+            currentlyWorking: false
+          },
+        ]
+      },
+    {
+        name: 'John Doe',
+        email: 'john@example.com',
+        phone: '123-456-7890',
+        skills: ['HTML', 'CSS', 'JavaScript','PHP'],
+        workExperiences: [
+          {
+            companyName: 'ABC Company',
+            jobRole: 'Software Engineer',
+            startMonth: 'January',
+            startYear: '2020',
+            endMonth: 'March',
+            endYear: '2022',
+            currentlyWorking: false
+          }
+        ]
+      },
+    // Sample resumes...
+  ];
