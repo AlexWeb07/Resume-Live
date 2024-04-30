@@ -159,7 +159,7 @@ const MyForm = () => {
 
   return (
     <div className='w-full h-full flex justify-center items-center'>
-      <div className="container mt-8 p-6 w-[90%] h-[85%] bg-white rounded-lg shadow-lg ">
+      <div className="container mt-8 p-6 w-[60%] h-[85%] bg-white rounded-lg shadow-lg ">
       <h1 className="text-3xl font-bold mb-6 text-center text-violet-800">Create Your Resume</h1>
       <form onSubmit={handleSubmit}>
         <div className="mb-6">
