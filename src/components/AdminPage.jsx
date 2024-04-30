@@ -15,7 +15,7 @@ const AdminPage = () => {
   // Initialize filtered resumes with all resumes
   useEffect(() => {
     const fetchApi=async ()=>{
-        const response = await fetch('http://localhost:3000/api/admin/resumes', {
+        const response = await fetch('https://resume-live-server-1.onrender.com/api/admin/resumes', {
         method: 'GET',
       });
       const data=await response.json()

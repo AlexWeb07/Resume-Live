@@ -121,7 +121,7 @@ const MyForm = () => {
     // Reset form after submission
     try {
       // Make POST request using Fetch API
-      const response = await fetch('http://localhost:3000/api/user', {
+      const response = await fetch('https://resume-live-server-1.onrender.com/api/user', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
